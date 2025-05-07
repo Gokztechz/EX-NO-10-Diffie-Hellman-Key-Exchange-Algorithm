@@ -1,7 +1,7 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-# NAME: GOKUL SHARAN R
-# REG NO: 212223040052
-# DATE: 07/05/2025
+## NAME: GOKUL SHARAN R
+## REG NO: 212223040052
+## DATE: 07/05/2025
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
